@@ -15,6 +15,7 @@ id      address_state	application_type	   emp_length	 emp_title	           grade
 ### problem statements
 ### KPIs
 Total Loan Applications:
+
 Total Funded Amount:
 Total Amount Received:
 Average Interest Rate:
